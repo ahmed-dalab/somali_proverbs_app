@@ -1,0 +1,22 @@
+{
+    "proverbs":[
+        {
+            "id": 1,
+            "title": "Aadmi la aragyaaba, dhib la arag.",
+            "description": "",
+            "reason": ""
+        },
+        {
+            "id": 2,
+            "title": "Aan wada hadalno waa aan heshiino.",
+            "description": "",
+            "reason": ""
+        },
+        {   
+            "id": 3,
+            "title": "Aar qoyey dacawo la mood.",
+            "description": "",
+            "reason": ""
+        }
+    ]
+}
